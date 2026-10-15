@@ -1,5 +1,5 @@
 # CuneiformClock
-**CODED USING SUPER INTELLIGENCE** 
+*PROUDLY VIBE-CODED USING OPENCODE SUPER INTELLIGENCE*
 
 Display sumerian clock on your home screen!
 
